@@ -1,7 +1,5 @@
-#import ast
 import json
 import requests
-#import collections
 import pandas as pd
 import datetime
 import adal
